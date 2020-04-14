@@ -1,6 +1,6 @@
 // JavaScript File
 
-// variables assigned to calculate the area of a trapezoid
+// variables assigned to calculate the area and circumference of a circle
 function Area(){
 var base1 = document.getElementById("base1");
 var base2 = document.getElementById("base2")
